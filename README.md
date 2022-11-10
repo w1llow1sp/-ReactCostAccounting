@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React приложения для учета расхождов
 
 ![of5JtKAMEa](https://user-images.githubusercontent.com/98582981/201110124-b09a1894-f713-4b88-bf5f-5d729a3b3217.gif)
 
