@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![of5JtKAMEa](https://user-images.githubusercontent.com/98582981/201110124-b09a1894-f713-4b88-bf5f-5d729a3b3217.gif)
+
+Посмотреть проект можно по ссылке : https://w1llow1sp.github.io/ReactCostAccounting/
 
 ## Available Scripts
 
