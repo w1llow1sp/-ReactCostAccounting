@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactCostAccounting/static/css/main.4184e845.css",
+    "main.js": "/ReactCostAccounting/static/js/main.4faf8ea2.js",
+    "index.html": "/ReactCostAccounting/index.html",
+    "main.4184e845.css.map": "/ReactCostAccounting/static/css/main.4184e845.css.map",
+    "main.4faf8ea2.js.map": "/ReactCostAccounting/static/js/main.4faf8ea2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4184e845.css",
+    "static/js/main.4faf8ea2.js"
+  ]
+}
