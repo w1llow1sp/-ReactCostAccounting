@@ -5,3 +5,5 @@
 **Посмотреть проект можно по ссылке :** https://w1llow1sp.github.io/ReactCostAccounting/
 
 ## Структура проекта
+![image](https://user-images.githubusercontent.com/98582981/203491005-16186d8c-bfc6-4810-a3f3-9117b659eaf0.png)
+
