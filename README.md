@@ -36,6 +36,6 @@ index.js | Индексный файл, отвечающий за рендер A
 ------------
 ## Как происходит передача данных 
 
-![image](https://user-images.githubusercontent.com/98582981/203498283-abb2b9e0-dd0e-4b2b-a546-1efc6e50547d.png)
+![image](https://user-images.githubusercontent.com/98582981/203498476-36128429-a952-4cf9-9aa1-2f98cea26cdd.png)
 
 ------------
